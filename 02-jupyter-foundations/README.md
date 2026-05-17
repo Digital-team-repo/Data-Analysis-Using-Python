@@ -10,7 +10,7 @@ This folder contains the OSC-delivery files for Lesson 2.
 
 ## Recommended Use Order
 1. Start with the Lesson 2 lesson plan.
-2. Run `demo-notebook.ipynb` with students as the Demo Notebook walkthrough.
+2. Run `demo-notebook.ipynb` with students as the Interactive Demo Notebook walkthrough.
 3. Have students complete `assignment-notebook.ipynb` for independent notebook-building practice.
 4. Use the `examples/` files to compare notebook-first workflow vs dense script workflow.
 5. Use the Lesson 2 student handout for consolidation and reflection.
