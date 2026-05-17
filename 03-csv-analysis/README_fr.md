@@ -5,7 +5,6 @@ Ce dossier contient les ressources techniques de la leçon 3, qui porte sur l'an
 ## Informations sur l'ensemble de données
 * **Source :** Environnement et Changement climatique Canada (2025)
 * **Nom de l'ensemble de données :** Changements de la température au Canada
-* **URL original :** [Portail du gouvernement ouvert](https://open.canada.ca/data/en/dataset/8b01db78-b825-4d38-a66c-1a1712c382ee)
 * **Page de l'indicateur :** [Changements de la température - ECCC](https://www.canada.ca/fr/environnement-changement-climatique/services/indicateurs-environnementaux/changements-temperature.html)
 * **Période de référence :** 1948 à 2024
 * **Base de référence :** Moyenne de 1961-1990

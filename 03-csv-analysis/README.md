@@ -5,7 +5,6 @@ This folder contains the technical resources for Lesson 3, which focuses on CSV 
 ## Dataset Information
 * **Source:** Environment and Climate Change Canada (2025)
 * **Dataset Name:** Temperature change in Canada
-* **Original URL:** [Open Government Portal](https://open.canada.ca/data/en/dataset/8b01db78-b825-4d38-a66c-1a1712c382ee)
 * **Indicator Page:** [Temperature Change - ECCC](https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/temperature-change.html)
 * **Reference Period:** 1948 to 2024
 * **Baseline:** 1961-1990 average

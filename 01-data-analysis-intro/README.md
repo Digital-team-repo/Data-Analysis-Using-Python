@@ -18,4 +18,4 @@ Deeper hands-on notebook mechanics are taught in Lesson 2, and deeper CSV-center
 - `data_fr.csv`: Supporting French CSV used for the demo context.
 
 ## Source Acknowledgement
-The demonstration context is based on open temperature indicator data from Environment and Climate Change Canada via the Open Government Portal.
+The demonstration context is based on open temperature indicator data from Environment and Climate Change Canada via the [Government of Canada Temperature Change indicator page](https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/temperature-change.html).

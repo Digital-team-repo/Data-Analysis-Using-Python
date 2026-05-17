@@ -18,4 +18,4 @@ Le travail pratique plus approfondi avec les notebooks est enseigné dans la Le�
 - `data_fr.csv` : fichier CSV de soutien (français) pour le contexte de démonstration.
 
 ## Mention de la source
-Le contexte de démonstration s'appuie sur des données ouvertes d'indicateurs de température d'Environnement et Changement climatique Canada via le Portail du gouvernement ouvert.
+Le contexte de démonstration s'appuie sur des données ouvertes d'indicateurs de température d'Environnement et Changement climatique Canada via la [page de l'indicateur Changements de la température du gouvernement du Canada](https://www.canada.ca/fr/environnement-changement-climatique/services/indicateurs-environnementaux/changements-temperature.html).
