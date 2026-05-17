@@ -19,3 +19,7 @@ Deeper hands-on notebook mechanics are taught in Lesson 2, and deeper CSV-center
 
 ## Source Acknowledgement
 The demonstration context is based on open temperature indicator data from Environment and Climate Change Canada via the [Government of Canada Temperature Change indicator page](https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/temperature-change.html).
+
+## Licence Reference
+This folder's demonstration dataset context uses Government of Canada open data terms:
+- Open Government Licence - Canada: https://open.canada.ca/en/open-government-licence-canada

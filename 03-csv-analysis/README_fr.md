@@ -26,3 +26,7 @@ Les fichiers CSV de ce dossier ont été modifiés pour une utilisation en class
 * **Écart de température :** L'écart de température est la différence entre la température moyenne pour une année donnée et la température moyenne de la période de référence (1961 à 1990).
 * **Rang :** "1" indique l'année la plus chaude enregistrée depuis 1948. 2024 et 2010 sont à égalité pour l'année la plus chaude.
 * **Citation :** Environnement et Changement climatique Canada (2025) Indicateurs environnementaux canadiens : Changements de la température au Canada.
+
+## Référence de licence
+Le contexte de données de ce dossier utilise les conditions de données ouvertes du gouvernement du Canada :
+- Licence du gouvernement ouvert - Canada : https://open.canada.ca/en/open-government-licence-canada

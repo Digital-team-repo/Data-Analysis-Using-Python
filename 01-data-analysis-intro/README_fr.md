@@ -19,3 +19,7 @@ Le travail pratique plus approfondi avec les notebooks est enseigné dans la Le�
 
 ## Mention de la source
 Le contexte de démonstration s'appuie sur des données ouvertes d'indicateurs de température d'Environnement et Changement climatique Canada via la [page de l'indicateur Changements de la température du gouvernement du Canada](https://www.canada.ca/fr/environnement-changement-climatique/services/indicateurs-environnementaux/changements-temperature.html).
+
+## Référence de licence
+Le contexte de données de ce dossier utilise les conditions de données ouvertes du gouvernement du Canada :
+- Licence du gouvernement ouvert - Canada : https://open.canada.ca/en/open-government-licence-canada

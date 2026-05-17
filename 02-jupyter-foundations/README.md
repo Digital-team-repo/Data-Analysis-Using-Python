@@ -18,3 +18,9 @@ This folder contains the OSC-delivery files for Lesson 2.
 ## Notes
 - For classroom reliability, keep notebook data access local when possible.
 - Keep this folder aligned with lesson sequencing and update links when files move.
+
+## Licence Reference
+This folder is primarily notebook-structure practice and does not introduce a new external dataset.
+For course datasets used in adjacent lessons, use these licence references:
+- Open Government Licence - Canada: https://open.canada.ca/en/open-government-licence-canada
+- Open Government Licence - Ontario: https://www.ontario.ca/page/open-government-licence-ontario

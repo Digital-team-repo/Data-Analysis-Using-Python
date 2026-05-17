@@ -27,3 +27,7 @@ The CSV files in this folder have been modified for classroom use:
 * **Ranking:** "1" indicates the warmest year on record since 1948. 2024 and 2010 are currently tied for the warmest year.
 * **Coverage:** This indicator uses the Adjusted and Homogenized Canadian Climate Data (AHCCD) for temperature.
 * **Citation:** Environment and Climate Change Canada (2025) Canadian Environmental Sustainability Indicators: Temperature change in Canada.
+
+## Licence Reference
+This folder's dataset context uses Government of Canada open data terms:
+- Open Government Licence - Canada: https://open.canada.ca/en/open-government-licence-canada
