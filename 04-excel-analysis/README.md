@@ -11,10 +11,6 @@ The classroom files in this folder are derived from:
 - `data_en.xlsx`
 - `data_fr.xlsx`
 
-## Draft Candidates Moved
-Unselected Lesson 4 candidate notebooks/data files were moved to:
-- `drafts/excel/`
-
 ## Ontario Open Government Licence
 These Ontario datasets are published under the Ontario government's open data terms:
 - Licence page: <https://www.ontario.ca/page/open-government-licence-ontario>
