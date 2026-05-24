@@ -1,0 +1,10 @@
+Apercu des ecoles de l'Ontario - fichier exemple
+Prepare pour demonstration en classe seulement
+Notes: les lignes 1-4 sont des metadonnees et ne font pas partie du tableau
+Genere: 2026-05-24
+Nom de l'ecole,Niveau scolaire,Total eleves,Region,Programme
+SS Vue de la Vallee,Secondaire,1020,Nord,STIM
+EP Grande Riviere,Elementaire,430,Ouest,Arts
+EP Grande Riviere,Elementaire,430,Ouest,Arts
+EP Bosquet du Cedre,Elementaire,,Ouest,Arts
+IC Cote Sud,Secondaire,980, sud ,STIM
