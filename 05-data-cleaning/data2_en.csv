@@ -1,0 +1,10 @@
+Ontario School Snapshot - Example File
+Prepared for classroom demonstration only
+Notes: rows 1-4 are metadata and should not be treated as table data
+Generated: 2026-05-24
+School Name,School Level,Total Students,Region,Program
+Valleyview SS,Secondary,1020,North,STEM
+Grand River PS,Elementary,430,West,Arts
+Grand River PS,Elementary,430,West,Arts
+Cedar Grove PS,Elementary,,West,Arts
+Southside CI,Secondary,980, south ,STEM
