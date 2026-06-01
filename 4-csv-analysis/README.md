@@ -1,6 +1,6 @@
-# Lesson 3: CSV Analysis (Temperature Change Dataset)
+# Lesson Four: CSV Analysis (Temperature Change Dataset)
 
-This folder contains the technical resources for Lesson 3, which focuses on CSV analysis using a Temperature Change in Canada dataset.
+This folder contains the technical resources for Lesson Four, which focuses on CSV analysis using a Temperature Change in Canada dataset.
 
 ## Dataset Information
 * **Source:** Environment and Climate Change Canada (2025)
@@ -13,6 +13,10 @@ This folder contains the technical resources for Lesson 3, which focuses on CSV 
 * `notebook.ipynb`: The student-facing Jupyter notebook.
 * `data_en.csv`: Cleaned English CSV for classroom use.
 * `data_fr.csv`: Cleaned French CSV for classroom use.
+
+## Launch Links
+- Open in Colab: <https://colab.research.google.com/github/Digital-team-repo/Data-Analysis-Using-Python/blob/main/4-csv-analysis/notebook.ipynb>
+- Open in Callysto: <https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDigital-team-repo%2FData-Analysis-Using-Python&branch=main&subPath=4-csv-analysis/notebook.ipynb>
 
 ## Data Cleaning Notes
 The CSV files in this folder have been modified for classroom use:

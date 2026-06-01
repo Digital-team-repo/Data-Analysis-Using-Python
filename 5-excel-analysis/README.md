@@ -1,6 +1,6 @@
-# Lesson 4: Excel Analysis (Ontario Open Data)
+# Lesson Five: Excel Analysis (Ontario Open Data)
 
-This folder contains the selected Lesson 4 support files for importing Excel data with `pandas` and visualizing with `plotly`.
+This folder contains the selected Lesson Five support files for importing Excel data with `pandas` and visualizing with `plotly`.
 
 ## Ontario Data Sources
 The classroom files in this folder are derived from:
@@ -10,6 +10,10 @@ The classroom files in this folder are derived from:
 - `notebook.ipynb`
 - `data_en.xlsx`
 - `data_fr.xlsx`
+
+## Launch Links
+- Open in Colab: <https://colab.research.google.com/github/Digital-team-repo/Data-Analysis-Using-Python/blob/main/5-excel-analysis/notebook.ipynb>
+- Open in Callysto: <https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDigital-team-repo%2FData-Analysis-Using-Python&branch=main&subPath=5-excel-analysis/notebook.ipynb>
 
 ## Ontario Open Government Licence
 These Ontario datasets are published under the Ontario government's open data terms:
