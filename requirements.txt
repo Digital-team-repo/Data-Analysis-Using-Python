@@ -1,0 +1,7 @@
+jupyterlab
+ipykernel
+pandas
+plotly
+statsmodels
+openpyxl
+matplotlib
