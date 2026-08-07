@@ -2,6 +2,8 @@
 
 Ce dossier contient les ressources techniques de la leçon 3, qui porte sur l'analyse de fichiers CSV à partir d'un jeu de données sur les changements de température au Canada.
 
+L'[annexe sur l'importation à partir d'une feuille Google](APPENDIX-google-sheets-import_fr.md) explique comment importer une feuille Google accessible publiquement sous forme de données CSV.
+
 ## Informations sur l'ensemble de données
 * **Source :** Environnement et Changement climatique Canada (2025)
 * **Nom de l'ensemble de données :** Changements de la température au Canada

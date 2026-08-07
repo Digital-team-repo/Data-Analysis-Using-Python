@@ -2,6 +2,8 @@
 
 This folder contains the technical resources for Lesson Four, which focuses on CSV analysis using a Temperature Change in Canada dataset.
 
+The [Google Sheets import appendix](APPENDIX-google-sheets-import.md) explains how to import a publicly viewable Google Sheet as CSV data.
+
 ## Dataset Information
 * **Source:** Environment and Climate Change Canada (2025)
 * **Dataset Name:** Temperature change in Canada
