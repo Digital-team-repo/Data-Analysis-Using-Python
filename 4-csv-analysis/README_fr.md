@@ -1,6 +1,6 @@
-# Leçon 3 : Analyse de fichiers CSV (jeu de données sur les changements de température)
+# Leçon 4 : Analyse de fichiers CSV (jeu de données sur les changements de température)
 
-Ce dossier contient les ressources techniques de la leçon 3, qui porte sur l'analyse de fichiers CSV à partir d'un jeu de données sur les changements de température au Canada.
+Ce dossier contient les ressources techniques de la leçon 4, qui porte sur l'analyse de fichiers CSV à partir d'un jeu de données sur les changements de température au Canada.
 
 L'[annexe sur l'importation à partir d'une feuille Google](APPENDIX-google-sheets-import_fr.md) explique comment importer une feuille Google accessible publiquement sous forme de données CSV.
 
@@ -12,7 +12,7 @@ L'[annexe sur l'importation à partir d'une feuille Google](APPENDIX-google-shee
 * **Base de référence :** Moyenne de 1961-1990
 
 ## Fichiers
-* `notebook.ipynb` : Le cahier Jupyter pour les étudiants.
+* `notebook_fr.ipynb` : Le cahier Jupyter pour les étudiants.
 * `data_en.csv` : Fichier CSV nettoyé en anglais.
 * `data_fr.csv` : Une version nettoyée du fichier CSV officiel d'Environnement Canada.
 
@@ -31,4 +31,4 @@ Les fichiers CSV de ce dossier ont été modifiés pour une utilisation en class
 
 ## Référence de licence
 Le contexte de données de ce dossier utilise les conditions de données ouvertes du gouvernement du Canada :
-- Licence du gouvernement ouvert - Canada : https://open.canada.ca/en/open-government-licence-canada
+- Licence du gouvernement ouvert - Canada : https://ouvert.canada.ca/fr/licence-du-gouvernement-ouvert-canada 

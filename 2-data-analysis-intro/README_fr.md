@@ -1,8 +1,8 @@
 # Leçon 1 : Logique des données (ressources de démonstration guidée)
 
-Ce dossier soutient la **Leçon 1 : la logique de l'analyse des données**.
+Ce dossier soutient la **Leçon 1 : Logique des données**.
 
-Dans la Leçon 1, le notebook et les fichiers d'exemple sont utilisés pour une **démonstration guidée** du flux IPO :
+Dans la Leçon 1, le carnet et les fichiers d'exemple sont utilisés pour une **démonstration guidée** du flux ETS :
 - **Entrée (Input)** : identifier la source des données et ce que représente le tableau;
 - **Traitement (Process)** : discuter de la manière dont les analystes inspectent et organisent les données;
 - **Sortie (Output)** : observer une visualisation d'exemple et interpréter ce qu'elle communique.
@@ -13,7 +13,7 @@ Ce dossier n'est pas la leçon technique complète d'analyse CSV. Il sert de res
 Le travail pratique plus approfondi avec les notebooks est enseigné dans la Leçon 2, et l'analyse CSV plus détaillée est enseignée dans la Leçon 3.
 
 ## Fichiers
-- `notebook.ipynb` : notebook de démonstration guidée utilisé en Leçon 1.
+- `notebook_fr.ipynb` : carnet de démonstration guidée utilisé en Leçon 1.
 - `data_en.csv` : fichier CSV de soutien (anglais) pour le contexte de démonstration.
 - `data_fr.csv` : fichier CSV de soutien (français) pour le contexte de démonstration.
 
@@ -22,4 +22,4 @@ Le contexte de démonstration s'appuie sur des données ouvertes d'indicateurs d
 
 ## Référence de licence
 Le contexte de données de ce dossier utilise les conditions de données ouvertes du gouvernement du Canada :
-- Licence du gouvernement ouvert - Canada : https://open.canada.ca/en/open-government-licence-canada
+- Licence du gouvernement ouvert - Canada : https://ouvert.canada.ca/fr/licence-du-gouvernement-ouvert-canada

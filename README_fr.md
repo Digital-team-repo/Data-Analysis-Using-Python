@@ -9,7 +9,7 @@ Ce dépôt a été conçu à des fins éducatives.
   - Ouvrir dans Colab : <https://colab.research.google.com/github/Digital-team-repo/Data-Analysis-Using-Python/blob/main/2-data-analysis-intro/notebook_fr.ipynb>
   - Ouvrir dans Callysto : <https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDigital-team-repo%2FData-Analysis-Using-Python&branch=main&subPath=2-data-analysis-intro/notebook_fr.ipynb>
 
-- Leçon 3 : Fondements de Jupyter
+- Leçon 3 : Fondements des carnets Jupyter
   - Voir le carnet de démonstration : <https://github.com/Digital-team-repo/Data-Analysis-Using-Python/blob/main/3-jupyter-foundations/demo-notebook_fr.ipynb>
   - Ouvrir le carnet de démonstration dans Colab : <https://colab.research.google.com/github/Digital-team-repo/Data-Analysis-Using-Python/blob/main/3-jupyter-foundations/demo-notebook_fr.ipynb>
   - Ouvrir le carnet de démonstration dans Callysto : <https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDigital-team-repo%2FData-Analysis-Using-Python&branch=main&subPath=3-jupyter-foundations/demo-notebook_fr.ipynb>
